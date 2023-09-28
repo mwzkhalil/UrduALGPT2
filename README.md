@@ -1,5 +1,5 @@
 # UrduALGPT2
-This repository implements an approach that combines ALBERT (A Lite BERT) with the GPT (Generative Pre-trained Transformer) architecture for natural language processing tasks. The project consists of two main files: `main.py` and `model.py`.
+This repository implements an approach that combines ALBERT (A Lite BERT) with the GPT (Generative Pre-trained Transformer) architecture for natural language processing tasks. The project consists of two main files: `train.py` and `model.py`.
 
 ## Overview
 
